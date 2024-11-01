@@ -1,0 +1,4 @@
+- source: README.qmd
+  netlify:
+    - id: 199543bc-bfb9-4772-8d0b-73a84452c071
+      url: 'https://peppy-dasik-48648f.netlify.app'
