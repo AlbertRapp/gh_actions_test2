@@ -1,0 +1,15 @@
+---
+format: gfm
+---
+
+# GitHub Actions Test
+
+```{r}
+#| echo: false
+current_time <- Sys.time() |> 
+  format('%d/%m/%Y %H:%M')
+```
+
+
+Hello. This file was rendered at `{r} current_time`.
+
